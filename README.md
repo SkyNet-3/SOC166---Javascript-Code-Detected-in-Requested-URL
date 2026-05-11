@@ -11,7 +11,6 @@ This lab reviews a possible XSS payload alert triggered by SOC166 – JavaScript
 - <b>LetsDefend SIEM</b> 
 - <b>LetsDefend Email Security</b>
 - <b>LetsDefend EDR</b>
-- <b>URL Decoder</b>
 - <b>VirusTotal</b>
 
 <h2>Environments Used </h2>
